@@ -52,10 +52,11 @@
 
 </div>
 
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+-->
 
 <!-- 
 name: GitHub-Profile-3D-Contrib
@@ -82,26 +83,27 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
--->
 
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+-->
 
-
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
+<!--
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Furkan-Kumus&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+ 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Furkan-Kumus)
 
 
